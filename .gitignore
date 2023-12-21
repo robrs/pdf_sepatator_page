@@ -1,0 +1,30 @@
+__pycache__/
+**/__pycache__/
+***/__pycache__/
+
+# Outros padrões comuns
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+*.venv/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de logs
+*.log
+
+# Arquivos de cache
+.cache/
+
+
+#diretorios de arquivos
+holerites/
+uploads
+
+
